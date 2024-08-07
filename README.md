@@ -1,1 +1,1 @@
-# med-phys-python-bootcamp
+# UW-Madison Medical Physics Python Bootcamp
